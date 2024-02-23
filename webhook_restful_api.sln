@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webhook_restful_api", "webhook_restful_api.csproj", "{21C19AFF-75DE-4FC6-A9BF-A206C8D8B0BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21C19AFF-75DE-4FC6-A9BF-A206C8D8B0BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21C19AFF-75DE-4FC6-A9BF-A206C8D8B0BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21C19AFF-75DE-4FC6-A9BF-A206C8D8B0BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21C19AFF-75DE-4FC6-A9BF-A206C8D8B0BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1F837E1-D2DE-43E5-A55B-E199EFA136C7}
+	EndGlobalSection
+EndGlobal
